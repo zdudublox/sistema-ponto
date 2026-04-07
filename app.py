@@ -264,4 +264,5 @@ def saida():
     return jsonify({"ok": False, "msg": "Entrada nao encontrada."})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Rodar no Replit
+    app.run(host="0.0.0.0", port=3000)
