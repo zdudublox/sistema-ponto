@@ -1,0 +1,15 @@
+nome,data,entrada,inicio_almoco,fim_almoco,saida,atividade,horas,saldo
+carlos,06/04/2026,20:16,,,,,,
+carlos,06/04/2026,20:16,,20:23,20:21,Desconhecido,0.08,-5.92
+carlos,06/04/2026,20:20,20:20,20:20,20:20,Desconhecido,0.0,-6.0
+carlos,06/04/2026,20:22,20:22,20:22,20:22,Desconhecido,0.0,-6.0
+carlos,06/04/2026,20:23,20:23,20:23,20:24,Desconhecido,0.02,-5.98
+carlos,06/04/2026,20:31,20:31,20:31,20:31,Desconhecido,0.0,-6.0
+ju,06/04/2026,20:31,20:31,20:31,20:33,Desconhecido,0.03,-7.97
+ju,06/04/2026,20:31,,20:31,20:33,Desconhecido,0.03,-7.97
+ju,06/04/2026,20:31,,20:31,20:33,Desconhecido,0.03,-7.97
+ju,06/04/2026,20:33,20:33,20:33,20:33,Desconhecido,0.0,-8.0
+ju,06/04/2026,21:54,21:54,21:54,22:00,Correção de valores,0.1,-7.9
+ju,06/04/2026,22:05,22:05,22:05,22:05,Correção de valores,0.0,-8.0
+ju,06/04/2026,22:07,,,22:07,Correção de valores,0.0,-8.0
+ju,06/04/2026,22:11,,,22:12,Correção de valores,0.02,-7.98
